@@ -1,0 +1,2387 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* muk_dms
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 12.0-20190225\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-26 12:38+0000\n"
+"PO-Revision-Date: 2019-07-26 12:38+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:464
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:464
+#, python-format
+msgid " couldn't be copied!"
+msgstr " no se pudo copiar!"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:411
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:411
+#, python-format
+msgid " couldn't be deleted!"
+msgstr " no se pudo eliminar!"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:392
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:392
+#, python-format
+msgid " couldn't be moved!"
+msgstr " no se pudo mover!"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:479
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:479
+#, python-format
+msgid " couldn't be renamed!"
+msgstr " no se pudo renombrar!"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:460
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:460
+#, python-format
+msgid " has been copied!"
+msgstr " ha sido copiado!"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:407
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:407
+#, python-format
+msgid " has been deleted!"
+msgstr " ha sido eliminado!"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:388
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:388
+#, python-format
+msgid " has been moved!"
+msgstr " ha sido movido!"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:476
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:476
+#, python-format
+msgid " has been renamed!"
+msgstr " ha sido renombrado!"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.document_onboarding_directory_panel
+msgid "/muk_dms/static/src/img/banner/documents_onboarding_directory.png"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.document_onboarding_file_panel
+msgid "/muk_dms/static/src/img/banner/documents_onboarding_file.png"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+msgid "<i class=\"fa fa-archive\"/> Archive"
+msgstr "<i class=\"fa fa-archive\"/> Archivar"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+msgid "<i class=\"fa fa-archive\"/> Unarchive"
+msgstr "<i class=\"fa fa-archive\"/> Activar"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+msgid "<i class=\"fa fa-download\"/> Download"
+msgstr "<i class=\"fa fa-download\"/> Descargar"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_kanban
+msgid "<i class=\"fa fa-external-link\"/> Open"
+msgstr "<i class=\"fa fa-external-link\"/> Abrir"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
+msgid "<i class=\"fa fa-file-o\"/> Files"
+msgstr "<i class=\"fa fa-file-o\"/> Archivos"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
+msgid "<i class=\"fa fa-folder-o\"/> Directories"
+msgstr "<i class=\"fa fa-folder-o\"/> Directorios"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+msgid "<i class=\"fa fa-lock\"/> Lock"
+msgstr "<i class=\"fa fa-lock\"/> Bloquear"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_kanban
+msgid "<i class=\"fa fa-pencil-square-o\"/> Edit"
+msgstr "<i class=\"fa fa-pencil-square-o\"/> Editar"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_kanban
+msgid "<i class=\"fa fa-trash-o\"/> Delete"
+msgstr "<i class=\"fa fa-trash-o\"/> Eliminar"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+msgid "<i class=\"fa fa-unlock-alt\"/> Unlock"
+msgstr "<i class=\"fa fa-unlock-alt\"/> Desbloquear"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "<span class=\"o_form_label\">File Extensions</span>"
+msgstr "<span class=\"o_form_label\">Extensiones</span>"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "<span class=\"o_form_label\">File Size</span>"
+msgstr "<span class=\"o_form_label\">Tamaño</span>"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "<strong>Save</strong> this page and come back here to set up the feature."
+msgstr "<strong>Save</strong> Guarde esa página y regrese aquí para configurar la función."
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/directory.py:376
+#: code:addons/muk_dms/muk_dms/models/directory.py:376
+#, python-format
+msgid "A directory can't be a root and have a parent directory."
+msgstr "El directorio no puede ser raíz y a la vez tener un directorio padre."
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_attachment/models/ir_attachment.py:103
+#: code:addons/muk_dms_attachment/models/ir_attachment.py:103
+#, python-format
+msgid "A directory has to be defined."
+msgstr "Hay que definir un directorio."
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/directory.py:374
+#: code:addons/muk_dms/muk_dms/models/directory.py:374
+#, python-format
+msgid "A directory has to have a parent directory."
+msgstr "El directorio debe tner un directorio padre."
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/directory.py:394
+#: code:addons/muk_dms/muk_dms/models/directory.py:394
+#, python-format
+msgid "A directory with the same name already exists."
+msgstr "Ya existe un directorio con el mismo nombre."
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/directory.py:458
+#: code:addons/muk_dms/muk_dms/models/directory.py:458
+#, python-format
+msgid "A file is locked, the folder cannot be deleted."
+msgstr "Hay un archivo bloqueado, la carpeta no se puede eliminar."
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/file.py:497
+#: code:addons/muk_dms/muk_dms/models/file.py:497
+#, python-format
+msgid "A file with the same name already exists."
+msgstr "Ya existe un archivo con el mismo nombre."
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_attachment/models/ir_attachment.py:172
+#: code:addons/muk_dms_attachment/models/ir_attachment.py:172
+#, python-format
+msgid "A linked attachments has to be linked to a file."
+msgstr "El archivo adjunto debe estar linkeado a un archivo."
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/directory.py:372
+#: code:addons/muk_dms/muk_dms/models/directory.py:372
+#, python-format
+msgid "A root directory has to have a root storage."
+msgstr "El directorio raíz debe tener un almacenamiento raíz."
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_access
+msgid "Access Control"
+msgstr "Control de acceso"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_form
+msgid "Access Information"
+msgstr "Acceso a la Información"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:166
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:166
+#, python-format
+msgid "Action Buttons"
+msgstr "Botones"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:561
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:561
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+#, python-format
+msgid "Actions"
+msgstr "Acciones"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Activates a file trash to restore deleted files"
+msgstr "Activar la papelera para restaurar los archivos eliminados"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_trash
+msgid "Activates a file trash to restore deleted files."
+msgstr "Activar la papelera para restaurar los archivos eliminados."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Activates the documents tree view"
+msgstr "Activar la vista de árbol de los documentos"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_view
+msgid "Activates the documents tree view."
+msgstr "Activar la vista de árbol de los documentos."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Activates the preview function on files"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_preview
+msgid "Activates the preview function on files."
+msgstr "Activar la función vista previa en archivos."
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__active
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__active
+msgid "Active"
+msgstr "Activo"
+
+#. module: muk_dms
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directory
+msgid "Add a new Directory."
+msgstr "Agregar un nuevo Directorio."
+
+#. module: muk_dms
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_file
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_file_migration
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_file_storage_migration
+msgid "Add a new File."
+msgstr "Agregar un nuevo Archivo."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Adds support for messages and activities on directories and files"
+msgstr "Agrega soporte para mensajes y actividades en directorios y archivos"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_mail
+msgid "Adds support for messages and activities on directories and files."
+msgstr "Agrega soporte para mensajes y actividades en directorios y archivos."
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_mail/models/directory.py:85
+#: code:addons/muk_dms_mail/models/directory.py:85
+#, python-format
+msgid "Alias-Mail-Extraction"
+msgstr "Extracción-Alias-Email"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_category_search
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_search
+msgid "All"
+msgstr "Todos"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
+msgid "All Files"
+msgstr "Todos los archivos"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_attachment_rules
+msgid "Allows attachments to be automatically placed in the right directory."
+msgstr "Permite que los archivos adjuntos se coloquen automáticamente en el directorio correcto."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Allows attachments to be stored inside of Documents"
+msgstr "Permite que los archivos adjuntos se almacenen dentro de Documentos"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_attachment
+msgid "Allows attachments to be stored inside of Documents."
+msgstr "Permite que los archivos adjuntos se almacenen dentro de Documentos."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Allows documents to be used as attachments"
+msgstr "Permite utilizar documentos como adjuntos"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_attachment_wizard
+msgid "Allows documents to be used as attachments."
+msgstr "Permite utilizar documentos como adjuntos."
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_export
+msgid "Allows the conversion of existing files."
+msgstr "Permite la conversión de archivos existentes."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Allows the creation of groups to define access rights"
+msgstr "Permite la creación de grupos para definir derechos de acceso"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_access
+msgid "Allows the creation of groups to define access rights."
+msgstr "Permite la creación de grupos para definir derechos de acceso."
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_thumbnails
+msgid "Allows the creation of thumbnails for files."
+msgstr "Permite la creación de una vista previa para archivos."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Allows the user to use documents as input for any binary field"
+msgstr "Permite a los usuarios utilizar documentos como entrada para cualquier campo binario"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_widget
+msgid "Allows the user to use documents as input for any binary field."
+msgstr "Permite a los usuarios utilizar documentos como entrada para cualquier campo binario."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Allows to download directories as a archive file"
+msgstr "Permite descargar directorios como un archivo comprimido"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_archive
+msgid "Allows to download directories as a archive file."
+msgstr "Permite descargar directorios como un archivo comprimido."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Allows to placed attachments in the right directory"
+msgstr "Permite colocar adjuntos en el directorio correcto"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Allows you to create rule templates to create attachment rules"
+msgstr "Le permite crear plantillas de reglas para crear reglas de adjuntos"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_attachment_automation
+msgid "Allows you to create rule templates to create attachment rules."
+msgstr "Le permite crear plantillas de reglas para crear reglas de adjuntos."
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_mail/models/action.py:119
+#: code:addons/muk_dms_mail/models/action.py:119
+#, python-format
+msgid "An activity has to have a type!"
+msgstr "Una actividad tiene que tener un tipo!"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__active
+msgid "Archived"
+msgstr "Archivado"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
+msgid "Archived Files"
+msgstr "Archivos Archivados"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_attachment_automation
+msgid "Attachment Rule Automation"
+msgstr "Automatización de regla de adjunto"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_attachment_wizard
+msgid "Attachment Wizard"
+msgstr "Asistente de archivos adjuntos"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Attachments"
+msgstr "Adjuntos"
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_thumbnails/models/res_config_settings.py:37
+#: code:addons/muk_dms_thumbnails/models/res_config_settings.py:37
+#, python-format
+msgid "Automatic Thumbnail Creation"
+msgstr "Creación automática de vistas previas"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_thumbnails
+msgid "Automatic Thumbnails"
+msgstr "Vistas Previas automáticas"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Automatic creation of user directories"
+msgstr "Creación automática de directorios de usuario"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_users
+msgid "Automatic creation of user directories."
+msgstr "Creación automática de directorios de usuario."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Automatically create a file index based on the content"
+msgstr "Crea automáticamente un índice de archivo basado en el contenido"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_index
+msgid "Automatically create a file index based on the content."
+msgstr "Crea automáticamente un índice de archivo basado en el contenido."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Automatically create file thumbnails based on the content"
+msgstr "Crea automáticamente vistas previas basadas en el contenido"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_widget
+msgid "Binary Widget Support"
+msgstr "Soporte de widget binario"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/drop/dialog.js:47
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/drop/file_dialog.js:46
+#: code:addons/muk_dms_view/static/src/js/dialogs/drop/dialog.js:47
+#: code:addons/muk_dms_view/static/src/js/dialogs/drop/file_dialog.js:46
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_new_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_new_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_new_form
+#, python-format
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms/static/src/xml/views.xml:46
+#: code:addons/muk_dms/static/src/xml/views.xml:46
+#: model:ir.actions.act_window,name:muk_dms.action_dms_category
+#: model:ir.ui.menu,name:muk_dms.menu_dms_category
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_category_search
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_category_tree
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_search
+#, python-format
+msgid "Categories"
+msgstr "Categorías"
+
+#. module: muk_dms
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_category
+msgid "Categories are used to categorize Documents."
+msgstr "Las categorías se utilizan para categorizar documentos."
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__category
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__category
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__category
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_category_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_search
+msgid "Category"
+msgstr "Categoría"
+
+#. module: muk_dms
+#: sql_constraint:muk_dms.category:0
+msgid "Category name already exists!"
+msgstr "El nombre de la categoría ya existe!"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__checksum
+msgid "Checksum/SHA1"
+msgstr "Suma de verificación/SHA1"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__child_categories
+msgid "Child Categories"
+msgstr "Categorías hijas"
+
+#. module: muk_dms
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directories_all_directory
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directories_directory
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directories_storage
+msgid "Click to add a new directory."
+msgstr "Clic para agregar un directorio nuevo."
+
+#. module: muk_dms
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_files_all_directory
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_files_directory
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_files_storage
+msgid "Click to add a new file."
+msgstr "Clic para agregar un archivo nuevo."
+
+#. module: muk_dms
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_tag
+msgid "Click to create a new tag."
+msgstr "Clic para crear un tag nuevo."
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/selection/dialog.js:50
+#: code:addons/muk_dms_view/static/src/js/dialogs/selection/dialog.js:50
+#, python-format
+msgid "Close"
+msgstr "Cerrar"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:62
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:62
+#, python-format
+msgid "Close the selected node"
+msgstr "Cerrar el nodo seleccionado"
+
+#. module: muk_dms
+#: selection:res.company,documents_onboarding_directory_state:0
+#: selection:res.company,documents_onboarding_file_state:0
+#: selection:res.company,documents_onboarding_state:0
+#: selection:res.company,documents_onboarding_storage_state:0
+msgid "Closed"
+msgstr "Cerrado"
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_mail/models/action.py:92
+#: code:addons/muk_dms_mail/models/action.py:92
+#, python-format
+msgid "Closed by operation!"
+msgstr "Cerrado por operación!"
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_mail/models/action.py:94
+#: code:addons/muk_dms_mail/models/action.py:94
+#, python-format
+msgid "Closed by operation: %s"
+msgstr "Cerrado por operación: %s"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__color
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__color
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_search
+msgid "Color"
+msgstr "Color"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__color
+msgid "Color Index"
+msgstr "Índice de Colores"
+
+#. module: muk_dms
+#: model:ir.model,name:muk_dms.model_res_company
+msgid "Companies"
+msgstr "Compañías"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__company
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__company
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__company
+msgid "Company"
+msgstr "Compañía"
+
+#. module: muk_dms
+#: model:ir.model,name:muk_dms.model_res_config_settings
+msgid "Config Settings"
+msgstr "Opciones de Configuración"
+
+#. module: muk_dms
+#: model:ir.ui.menu,name:muk_dms.cat_menu_muk_dms_config
+msgid "Configuration"
+msgstr "Configuración"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__content
+msgid "Content"
+msgstr "Contenido"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__content_binary
+msgid "Content Binary"
+msgstr "Contenido binario"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:155
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:155
+#, python-format
+msgid "Context Menu"
+msgstr "Menú contextual"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:577
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:577
+#, python-format
+msgid "Copy"
+msgstr "Copiar"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__count_directories
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__count_storage_directories
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__count_directories
+msgid "Count Directories"
+msgstr "Cantidad de directorios"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__count_elements
+msgid "Count Elements"
+msgstr "Cantidad de elementos"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__count_files
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__count_files
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__count_storage_files
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__count_files
+msgid "Count Files"
+msgstr "Cantidad de archivos"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__count_categories
+msgid "Count Subcategories"
+msgstr "Cantidad de subcategorías"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__count_directories
+msgid "Count Subdirectories"
+msgstr "Cantidad de subdirectorios"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__count_tags
+msgid "Count Tags"
+msgstr "Cantidad de tags"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/action/controller.js:94
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/dialog/controller.js:44
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/controls.xml:39
+#: code:addons/muk_dms_view/static/src/js/views/action/controller.js:94
+#: code:addons/muk_dms_view/static/src/js/views/dialog/controller.js:44
+#: code:addons/muk_dms_view/static/src/xml/controls.xml:39
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_new_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_new_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_new_form
+#, python-format
+msgid "Create"
+msgstr "Crear"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__permission_create
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__permission_create
+msgid "Create Access"
+msgstr "Acceso para crear"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_directory_step
+msgid "Create Directory"
+msgstr "Crear directorio"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_storage_step
+msgid "Create Storage"
+msgstr "Crear almacenamiento"
+
+#. module: muk_dms
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_category
+msgid "Create a new Category."
+msgstr "Crear una nueva categoría."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_storage_step
+msgid "Create a new Document Storage."
+msgstr "Crear un nuevo almacenamiento de documentos."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_directory_step
+msgid "Create a new Root Directory."
+msgstr "Crear un nuevo directorio raíz."
+
+#. module: muk_dms
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_storage
+msgid "Create a new Storage object."
+msgstr "Crear un nuevo objecto de almacenamiento."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Create custom file operations"
+msgstr "Crear operaciones personalizadas de archivos"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_actions
+msgid "Create custom file operations."
+msgstr "Crear operaciones personalizadas de archivos."
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:51
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:51
+#, python-format
+msgid "Create:"
+msgstr "Crear:"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__create_uid
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__create_uid
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__create_uid
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__create_uid
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__create_date
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__create_date
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__create_date
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__create_date
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__create_date
+msgid "Created on"
+msgstr "Creado el"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
+msgid "Creation Date"
+msgstr "Fecha de Creación"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__save_type
+msgid "Current Save Type"
+msgstr "Tipo de guardado actual"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_actions/static/src/xml/actions.xml:25
+#: code:addons/muk_dms_actions/static/src/xml/actions.xml:25
+#, python-format
+msgid "Custom Operations"
+msgstr "Operaciones personalizadas"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__custom_thumbnail
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__custom_thumbnail
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_mixins_thumbnail__custom_thumbnail
+msgid "Custom Thumbnail"
+msgstr "Vistas previas presonalizadas"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_form
+msgid "Customer"
+msgstr "Cliente"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:568
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:568
+#, python-format
+msgid "Cut"
+msgstr "Cortar"
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/storage.py:42
+#: code:addons/muk_dms/muk_dms/models/storage.py:42
+#: selection:muk_dms.storage,save_type:0
+#, python-format
+msgid "Database"
+msgstr "Base de datos"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Define forbidden file extensions"
+msgstr "Definir extensiones de archivo prohibidas"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Define the maximum upload size of a file in MB"
+msgstr "Definir el tamaño máximo para subir un archivo en Mb"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__documents_forbidden_extensions
+msgid "Defines a list of forbidden file extensions. (Example: 'exe,msi')"
+msgstr "Definir una lista de extensiones de archivo prohibidas. (Ejemplo: 'exe,msi')"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__documents_binary_max_size
+msgid "Defines the maximum upload size in MB. Default (25MB)"
+msgstr "Definir el tamaño máximo para subir en Mb. Por defecto (25Mb)"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:591
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/controls.xml:47
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:591
+#: code:addons/muk_dms_view/static/src/xml/controls.xml:47
+#, python-format
+msgid "Delete"
+msgstr "Eliminar"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__permission_unlink
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__permission_unlink
+msgid "Delete Access"
+msgstr "Permiso para eliminar"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:73
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:73
+#, python-format
+msgid "Delete:"
+msgstr "Eliminar:"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms/static/src/xml/views.xml:37
+#: code:addons/muk_dms/static/src/xml/views.xml:37
+#: model:ir.actions.act_window,name:muk_dms.action_dms_directories_storage
+#: model:ir.actions.act_window,name:muk_dms.action_dms_directory
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__directories
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__storage_directories
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__directories
+#: model:ir.ui.menu,name:muk_dms.menu_dms_directory
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_category_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_tree
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_form
+#, python-format
+msgid "Directories"
+msgstr "Directorios"
+
+#. module: muk_dms
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directories_all_directory
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directories_directory
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directories_storage
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_directory
+msgid "Directories can be used to structure and organize\n"
+"			files directly in Odoo."
+msgstr "Los directorios se pueden usar para estructurar y organizar\n"
+"           archivos directamente en Odoo"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/info_dialogs.xml:82
+#: code:addons/muk_dms_view/static/src/xml/info_dialogs.xml:82
+#, python-format
+msgid "Directories:"
+msgstr "Directorios:"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/info/directory_dialog.js:39
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/action/controller.js:100
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/dialog/controller.js:50
+#: code:addons/muk_dms_view/static/src/js/dialogs/info/directory_dialog.js:39
+#: code:addons/muk_dms_view/static/src/js/views/action/controller.js:100
+#: code:addons/muk_dms_view/static/src/js/views/dialog/controller.js:50
+#: model:ir.model,name:muk_dms.model_muk_dms_directory
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__directory
+#: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_directory_step
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
+#, python-format
+msgid "Directory"
+msgstr "Directorio"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/dialog/controller.js:65
+#: code:addons/muk_dms_view/static/src/js/views/dialog/controller.js:65
+#, python-format
+msgid "Directory couldn't be created!"
+msgstr "No se pudo crear el directorio!"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/controls.xml:61
+#: code:addons/muk_dms_view/static/src/xml/controls.xml:61
+#, python-format
+msgid "Disable Refresh"
+msgstr "Deshabilitar el refresco"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__display_name
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__display_name
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__display_name
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_mixins_thumbnail__display_name
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__display_name
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__display_name
+msgid "Display Name"
+msgstr "Nombre mostrado"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_actions
+msgid "Document Actions"
+msgstr "Acciones de documentos"
+
+#. module: muk_dms
+#: model:ir.model,name:muk_dms.model_muk_dms_category
+msgid "Document Category"
+msgstr "Categoría de documento"
+
+#. module: muk_dms
+#: model:ir.model,name:muk_dms.model_muk_dms_tag
+msgid "Document Tag"
+msgstr "Tag de documento"
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_view/models/directory.py:80
+#: code:addons/muk_dms/muk_dms_view/models/storage.py:81
+#: code:addons/muk_dms_view/models/directory.py:80
+#: code:addons/muk_dms_view/models/storage.py:81
+#: model:ir.module.category,name:muk_dms.category_dms_security
+#: model:ir.ui.menu,name:muk_dms.main_menu_muk_dms
+#, python-format
+msgid "Documents"
+msgstr "Documentos"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_company__documents_onboarding_directory_state
+msgid "Documents Onboarding Directory State"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_company__documents_onboarding_file_state
+msgid "Documents Onboarding File State"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_company__documents_onboarding_state
+msgid "Documents Onboarding State"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_company__documents_onboarding_storage_state
+msgid "Documents Onboarding Storage State"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_attachment
+msgid "Documents Storage Location"
+msgstr "Ubicación del almacenamiento de documentos"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_attachment_rules
+msgid "Documents Storage Rules"
+msgstr "Reglas del almacenamiento de documentos"
+
+#. module: muk_dms
+#: selection:res.company,documents_onboarding_directory_state:0
+#: selection:res.company,documents_onboarding_file_state:0
+#: selection:res.company,documents_onboarding_state:0
+#: selection:res.company,documents_onboarding_storage_state:0
+msgid "Done"
+msgstr "Realizado"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:625
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:625
+#, python-format
+msgid "Download"
+msgstr "Descargar"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_archive
+msgid "Download Directories"
+msgstr "Descargar directorios"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:160
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:160
+#, python-format
+msgid "Drag and Drop"
+msgstr "Arrastrar y soltar"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_kanban
+msgid "Dropdown menu"
+msgstr "Menú desplegable"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:141
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:141
+#, python-format
+msgid "END"
+msgstr "FIN"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/action/controller.js:65
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/controls.xml:43
+#: code:addons/muk_dms_view/static/src/js/views/action/controller.js:65
+#: code:addons/muk_dms_view/static/src/xml/controls.xml:43
+#, python-format
+msgid "Edit"
+msgstr "Editar"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:118
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:118
+#, python-format
+msgid "Edit the selected node"
+msgstr "Editar el nodo seleccionado"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__is_lock_editor
+msgid "Editor"
+msgstr "Editor"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
+msgid "Elements"
+msgstr "Elementos"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/controls.xml:65
+#: code:addons/muk_dms_view/static/src/xml/controls.xml:65
+#, python-format
+msgid "Enable Dialog Mode"
+msgstr "Habilitar el modo de diálogo"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Enables a new save option to store files into a filestore"
+msgstr "Habilita una nueva opción de guardado para almacenar archivos en una ubicación"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_file
+msgid "Enables a new save option to store files into a filestore."
+msgstr "Habilita una nueva opción de guardado para almacenar archivos en una ubicación."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Enables a new save option to store files into large objects"
+msgstr "Habilita una nueva opción de guardado para almacenar archivos en objetos grandes"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_lobject
+msgid "Enables a new save option to store files into large objects."
+msgstr "Habilita una nueva opción de guardado para almacenar archivos en objetos grandes."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Enables the Document Finder"
+msgstr "Habilita el buscador de documentos"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_finder
+msgid "Enables the Document Finder."
+msgstr "Habilita el buscador de documentos."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Enables version control for files"
+msgstr "Habilita el versionado para archivos"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_res_config_settings__module_muk_dms_version
+msgid "Enables version control for files."
+msgstr "Habilita el versionado para archivos."
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/category.py:146
+#: code:addons/muk_dms/muk_dms/models/category.py:146
+#, python-format
+msgid "Error! You cannot create recursive categories."
+msgstr "Error! No puede crear categorías recursivas."
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/directory.py:365
+#: code:addons/muk_dms/muk_dms/models/directory.py:365
+#, python-format
+msgid "Error! You cannot create recursive directories."
+msgstr "Error! No puede crear categorías recursivas."
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_export
+msgid "Export Files"
+msgstr "Exportar archivos"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__extension
+msgid "Extension"
+msgstr "Extensión"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__documents_forbidden_extensions
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Extensions"
+msgstr "Extensiones"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:113
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:113
+#, python-format
+msgid "F2"
+msgstr "F2"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/info/file_dialog.js:38
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/action/controller.js:112
+#: code:addons/muk_dms_view/static/src/js/dialogs/info/file_dialog.js:38
+#: code:addons/muk_dms_view/static/src/js/views/action/controller.js:112
+#: model:ir.model,name:muk_dms.model_muk_dms_file
+#: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_file_step
+#, python-format
+msgid "File"
+msgstr "Archivo"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_index
+msgid "File Indexation"
+msgstr "Indexación de archivos"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_preview
+msgid "File Preview"
+msgstr "Vista previa de archivos"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "File Upload"
+msgstr "Subir archivos"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__name
+msgid "Filename"
+msgstr "Nombre de archivo"
+
+#. module: muk_dms
+#: model:ir.actions.act_window,name:muk_dms.action_dms_file
+#: model:ir.actions.act_window,name:muk_dms.action_dms_file_migration
+#: model:ir.actions.act_window,name:muk_dms.action_dms_file_storage_migration
+#: model:ir.actions.act_window,name:muk_dms.action_dms_files_all_directory
+#: model:ir.actions.act_window,name:muk_dms.action_dms_files_directory
+#: model:ir.actions.act_window,name:muk_dms.action_dms_files_storage
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__files
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__files
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__storage_files
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__files
+#: model:ir.ui.menu,name:muk_dms.menu_dms_file
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_category_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_tree
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_migration_tree
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_tree
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_form
+msgid "Files"
+msgstr "Archivos"
+
+#. module: muk_dms
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_file
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_file_migration
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_file_storage_migration
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_files_all_directory
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_files_directory
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_files_storage
+msgid "Files are used to save content directly in Odoo."
+msgstr "Los archivos se utilizan para guardar contenido directamente en Odoo."
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/info_dialogs.xml:86
+#: code:addons/muk_dms_view/static/src/xml/info_dialogs.xml:86
+#, python-format
+msgid "Files:"
+msgstr "Archivos:"
+
+#. module: muk_dms
+#: selection:muk_dms.storage,save_type:0
+msgid "Filestore"
+msgstr "Almacenamiento"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_file
+msgid "Filestore Storage"
+msgstr "Almacenamiento"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_finder
+msgid "Finder"
+msgstr "Buscador"
+
+#. module: muk_dms
+#: model:ir.actions.act_window,name:muk_dms.action_dms_settings_general
+#: model:ir.ui.menu,name:muk_dms.menu_dms_settings_general
+msgid "General Settings"
+msgstr "Opciones Generales"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file_migration
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_search
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_search
+msgid "Group By"
+msgstr "Agrupar por"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:127
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:127
+#, python-format
+msgid "HOME"
+msgstr "INICIO"
+
+#. module: muk_dms
+#: model:ir.model,name:muk_dms.model_ir_http
+msgid "HTTP Routing"
+msgstr "Ruteo HTTP"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/main/main.js:271
+#: code:addons/muk_dms_view/static/src/js/views/main/main.js:271
+#, python-format
+msgid "Help"
+msgstr "Ayuda"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/controls.xml:73
+#: code:addons/muk_dms_view/static/src/xml/controls.xml:73
+#, python-format
+msgid "Hide Preview"
+msgstr "Ocultar vista previa"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__id
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__id
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__id
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_mixins_thumbnail__id
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__id
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__id
+msgid "ID"
+msgstr "ID"
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_muk_dms_file__active
+msgid "If a file is set to archived, it is not displayed, but still exists."
+msgstr "Si un archivo se archiva, no se muestra, pero aún existe."
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_muk_dms_directory__company
+#: model:ir.model.fields,help:muk_dms.field_muk_dms_file__company
+#: model:ir.model.fields,help:muk_dms.field_muk_dms_storage__company
+msgid "If set, directories and files will only be available for the selected company."
+msgstr "Si se establece, los directorios y archivos solo estarán disponibles para la empresa seleccionada."
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_muk_dms_directory__is_hidden
+#: model:ir.model.fields,help:muk_dms.field_muk_dms_file__is_hidden
+#: model:ir.model.fields,help:muk_dms.field_muk_dms_storage__is_hidden
+msgid "Indicates if directories and files are hidden by default."
+msgstr "Indica si los directorios y archivos se ocultan por defecto."
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_muk_dms_directory__is_root_directory
+msgid "Indicates if the directory is a root directory. A root directory has a settings object,\n"
+"            while a directory with a set parent inherits the settings form its parent."
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/action/controller.js:47
+#: code:addons/muk_dms_view/static/src/js/views/action/controller.js:47
+#, python-format
+msgid "Info"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "Integrations"
+msgstr "Integraciones"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_new_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_form
+msgid "Internal / Human Resource"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_category_form
+msgid "Invoices"
+msgstr "Facturas"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__is_root_directory
+msgid "Is Root Directory"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:180
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:180
+#, python-format
+msgid "Issues"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:146
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:146
+#, python-format
+msgid "Jump to the bottom"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:132
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:132
+#, python-format
+msgid "Jump to the top"
+msgstr ""
+
+#. module: muk_dms
+#: selection:res.company,documents_onboarding_directory_state:0
+#: selection:res.company,documents_onboarding_file_state:0
+#: selection:res.company,documents_onboarding_state:0
+#: selection:res.company,documents_onboarding_storage_state:0
+msgid "Just done"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:38
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:38
+#, python-format
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_lobject
+msgid "Large Objects Storage"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category____last_update
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory____last_update
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file____last_update
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_mixins_thumbnail____last_update
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage____last_update
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag____last_update
+msgid "Last Modified on"
+msgstr "Última modificación en"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__write_uid
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__write_uid
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__write_uid
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__write_uid
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización realizada por"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/info_dialogs.xml:48
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/info_dialogs.xml:78
+#: code:addons/muk_dms_view/static/src/xml/info_dialogs.xml:48
+#: code:addons/muk_dms_view/static/src/xml/info_dialogs.xml:78
+#, python-format
+msgid "Last Updated by:"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__write_date
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__write_date
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__write_date
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__write_date
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__write_date
+msgid "Last Updated on"
+msgstr "Última actualización el"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/info_dialogs.xml:44
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/info_dialogs.xml:74
+#: code:addons/muk_dms_view/static/src/xml/info_dialogs.xml:44
+#: code:addons/muk_dms_view/static/src/xml/info_dialogs.xml:74
+#, python-format
+msgid "Last Updated on:"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_form
+msgid "Lock"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__is_locked
+msgid "Locked"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__locked_by
+msgid "Locked by"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_mail
+msgid "Mail Support"
+msgstr ""
+
+#. module: muk_dms
+#: model:res.groups,name:muk_dms.group_dms_manager
+msgid "Manager"
+msgstr "Responsable"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_form
+msgid "Manual File Migration"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__custom_thumbnail_medium
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__custom_thumbnail_medium
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_mixins_thumbnail__custom_thumbnail_medium
+msgid "Medium Custom Thumbnail"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__thumbnail_medium
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__thumbnail_medium
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_mixins_thumbnail__thumbnail_medium
+msgid "Medium Thumbnail"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_form
+msgid "Meta Information"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.actions.server,name:muk_dms.action_dms_attachment_migrate
+msgid "Migrate"
+msgstr "Migrar"
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/file.py:224
+#: code:addons/muk_dms/muk_dms/models/file.py:224
+#, python-format
+msgid "Migrate File %s of %s [ %s ]"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_form
+msgid "Migrate Files"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.ui.menu,name:muk_dms.menu_dms_file_migration
+msgid "Migration"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__migration
+msgid "Migration Status"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/info_dialogs.xml:36
+#: code:addons/muk_dms_view/static/src/xml/info_dialogs.xml:36
+#, python-format
+msgid "Mimetype:"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
+msgid "Modification Date"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:90
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:90
+#, python-format
+msgid "Move down one node"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:48
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:48
+#, python-format
+msgid "Move up one node"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:175
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:175
+#, python-format
+msgid "MuK Documents 2.0"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
+msgid "My Directories"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
+msgid "My Documents"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
+msgid "My Files"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__name
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__name
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__name
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_tag__name
+msgid "Name"
+msgstr "Nombre"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/info_dialogs.xml:32
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/info_dialogs.xml:66
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:36
+#: code:addons/muk_dms_view/static/src/xml/info_dialogs.xml:32
+#: code:addons/muk_dms_view/static/src/xml/info_dialogs.xml:66
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:36
+#, python-format
+msgid "Name:"
+msgstr ""
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_view/controllers/backend.py:34
+#: code:addons/muk_dms_view/controllers/backend.py:34
+#, python-format
+msgid "New Directory"
+msgstr ""
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_actions/models/action.py:168
+#: code:addons/muk_dms/muk_dms_attachment/models/action.py:62
+#: code:addons/muk_dms_actions/models/action.py:168
+#: code:addons/muk_dms_attachment/models/action.py:62
+#, python-format
+msgid "New Partner"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.actions.act_window,name:muk_dms.action_dms_directory_new
+#: model:ir.actions.act_window,name:muk_dms.action_dms_file_new
+msgid "New Root Directory"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.actions.act_window,name:muk_dms.action_dms_storage_new
+msgid "New Storage"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms/static/src/js/views/file/kanban/file_kanban_controller.js:58
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:301
+#: code:addons/muk_dms/static/src/js/views/file/kanban/file_kanban_controller.js:58
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:301
+#, python-format
+msgid "No Directory has been selected!"
+msgstr ""
+
+#. module: muk_dms
+#: selection:res.company,documents_onboarding_directory_state:0
+#: selection:res.company,documents_onboarding_file_state:0
+#: selection:res.company,documents_onboarding_state:0
+#: selection:res.company,documents_onboarding_storage_state:0
+msgid "Not done"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/main/main.js:264
+#: code:addons/muk_dms_view/static/src/js/views/main/main.js:264
+#, python-format
+msgid "Ok"
+msgstr ""
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_attachment/models/ir_attachment.py:118
+#: code:addons/muk_dms_attachment/models/ir_attachment.py:118
+#, python-format
+msgid "Only administrators can execute this action."
+msgstr ""
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/storage.py:99
+#: code:addons/muk_dms/muk_dms/models/storage.py:99
+#: code:addons/muk_dms/muk_dms_file/models/storage.py:45
+#: code:addons/muk_dms/muk_dms_lobject/models/storage.py:44
+#: code:addons/muk_dms_file/models/storage.py:45
+#: code:addons/muk_dms_lobject/models/storage.py:44
+#, python-format
+msgid "Only managers can execute this action."
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/action/controller.js:56
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/controls.xml:35
+#: code:addons/muk_dms_view/static/src/js/views/action/controller.js:56
+#: code:addons/muk_dms_view/static/src/xml/controls.xml:35
+#, python-format
+msgid "Open"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:104
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:104
+#, python-format
+msgid "Open all nodes"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:76
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:76
+#, python-format
+msgid "Open the selected node"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/action/controller.js:156
+#: code:addons/muk_dms_view/static/src/js/views/action/controller.js:156
+#, python-format
+msgid "Operation"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_actions/static/src/xml/actions.xml:54
+#: code:addons/muk_dms/muk_dms_actions/static/src/xml/actions.xml:67
+#: code:addons/muk_dms_actions/static/src/xml/actions.xml:54
+#: code:addons/muk_dms_actions/static/src/xml/actions.xml:67
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+#, python-format
+msgid "Operations"
+msgstr "Operaciones"
+
+#. module: muk_dms
+#: model:ir.ui.menu,name:muk_dms.cat_menu_muk_dms_config_organizing
+msgid "Organizing"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__parent_category
+msgid "Parent Category"
+msgstr "Categoría padre"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__parent_directory
+msgid "Parent Directory"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__parent_path
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__parent_path
+msgid "Parent Path"
+msgstr "Trayectoria de los padres"
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_actions/models/action.py:182
+#: code:addons/muk_dms/muk_dms_attachment/models/action.py:76
+#: code:addons/muk_dms_actions/models/action.py:182
+#: code:addons/muk_dms_attachment/models/action.py:76
+#, python-format
+msgid "Partner created from Documents"
+msgstr ""
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_actions/models/action.py:191
+#: code:addons/muk_dms_actions/models/action.py:191
+#, python-format
+msgid "Partners created from Documents"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:608
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:608
+#, python-format
+msgid "Paste"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_tree
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_tree
+msgid "Path"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__parent_path_json
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__parent_path_json
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__path_json
+msgid "Path Json"
+msgstr "Camino Json"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__parent_path_names
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__parent_path_names
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__path_names
+msgid "Path Names"
+msgstr "Nombres de senderos"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_users
+msgid "Personal Documents"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:178
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:178
+#, python-format
+msgid "Project"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__permission_read
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__permission_read
+msgid "Read Access"
+msgstr "Permiso para leer"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:40
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:40
+#, python-format
+msgid "Read:"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/controls.xml:59
+#: code:addons/muk_dms_view/static/src/xml/controls.xml:59
+#, python-format
+msgid "Refresh"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:549
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:549
+#, python-format
+msgid "Rename"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/action/controller.js:131
+#: code:addons/muk_dms_view/static/src/js/views/action/controller.js:131
+#, python-format
+msgid "Replace"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/drop/file_dialog.js:41
+#: code:addons/muk_dms_view/static/src/js/dialogs/drop/file_dialog.js:41
+#, python-format
+msgid "Replace Content"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/drop/file_dialog.js:36
+#: code:addons/muk_dms_view/static/src/js/dialogs/drop/file_dialog.js:36
+#, python-format
+msgid "Replace File"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/drop/file_dialog.js:50
+#: code:addons/muk_dms_view/static/src/js/dialogs/drop/file_dialog.js:50
+#, python-format
+msgid "Replace File: "
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_trash
+msgid "Restore Files"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__root_directories
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_form
+msgid "Root Directories"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__root_storage
+msgid "Root Storage"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/drop/dialog.js:42
+#: code:addons/muk_dms_view/static/src/js/dialogs/drop/dialog.js:42
+#, python-format
+msgid "Save"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__save_type
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_search
+msgid "Save Type"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/controls.xml:25
+#: code:addons/muk_dms_view/static/src/xml/controls.xml:25
+#, python-format
+msgid "Search..."
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/selection/dialog.js:36
+#: code:addons/muk_dms_view/static/src/js/dialogs/selection/dialog.js:36
+#, python-format
+msgid "Select"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/controls.xml:55
+#: code:addons/muk_dms_view/static/src/xml/controls.xml:55
+#, python-format
+msgid "Show Help"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/controls.xml:71
+#: code:addons/muk_dms_view/static/src/xml/controls.xml:71
+#, python-format
+msgid "Show Preview"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__size
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__size
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__documents_binary_max_size
+msgid "Size"
+msgstr "Tamaño"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/info_dialogs.xml:40
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/info_dialogs.xml:70
+#: code:addons/muk_dms_view/static/src/xml/info_dialogs.xml:40
+#: code:addons/muk_dms_view/static/src/xml/info_dialogs.xml:70
+#, python-format
+msgid "Size:"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__custom_thumbnail_small
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__custom_thumbnail_small
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_mixins_thumbnail__custom_thumbnail_small
+msgid "Small Custom Thumbnail"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__thumbnail_small
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__thumbnail_small
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_mixins_thumbnail__thumbnail_small
+msgid "Small Thumbnail"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms/static/src/xml/views.xml:28
+#: code:addons/muk_dms/static/src/xml/views.xml:28
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__starred
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+#, python-format
+msgid "Starred"
+msgstr "Destacado"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
+msgid "Starred Directories"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__user_stars
+msgid "Stars"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model,name:muk_dms.model_muk_dms_storage
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__storage
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__storage
+#: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_storage_step
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_directory
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file
+#: model_terms:ir.ui.view,arch_db:muk_dms.search_dms_file_migration
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_form
+msgid "Storage"
+msgstr "Almacenamiento"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__is_hidden
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__is_hidden
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_storage__is_hidden
+msgid "Storage is Hidden"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.actions.act_window,name:muk_dms.action_dms_storage
+#: model:ir.ui.menu,name:muk_dms.menu_dms_storage
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_storage_tree
+msgid "Storages"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_storage
+msgid "Storages are used to configure your Documents."
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_category_form
+msgid "Subcategories"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.actions.act_window,name:muk_dms.action_dms_directories_all_directory
+#: model:ir.actions.act_window,name:muk_dms.action_dms_directories_directory
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__child_directories
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
+msgid "Subdirectories"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.ui.menu,name:muk_dms.cat_menu_muk_dms_config_system
+msgid "System"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_form
+msgid "Tag"
+msgstr "Etiqueta"
+
+#. module: muk_dms
+#: sql_constraint:muk_dms.tag:0
+msgid "Tag name already exists!"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms/static/src/xml/views.xml:55
+#: code:addons/muk_dms/static/src/xml/views.xml:55
+#: model:ir.actions.act_window,name:muk_dms.action_dms_tag
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_category__tags
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__tags
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__tags
+#: model:ir.ui.menu,name:muk_dms.menu_dms_tag
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_category_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_tree
+#, python-format
+msgid "Tags"
+msgstr "Etiquetas"
+
+#. module: muk_dms
+#: model_terms:ir.actions.act_window,help:muk_dms.action_dms_tag
+msgid "Tags are used to categorize Documents."
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_new_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_form
+msgid "Tags..."
+msgstr "Etiquetas..."
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_form
+msgid "Technical Information"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:167
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:167
+#, python-format
+msgid "The action button at the top of the view can be used to open,\n"
+"						create, edit or delete a node."
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_muk_dms_category__active
+msgid "The active field allows you to hide the category without removing it."
+msgstr "El campo activo le permite ocultar la categoría sin tener que eliminarla."
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_muk_dms_tag__active
+msgid "The active field allows you to hide the tag without removing it."
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.document_onboarding_directory_panel
+#: model_terms:ir.ui.view,arch_db:muk_dms.document_onboarding_file_panel
+msgid "The configuration is done!"
+msgstr ""
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_attachment/models/ir_attachment.py:184
+#: code:addons/muk_dms_attachment/models/ir_attachment.py:184
+#, python-format
+msgid "The data of an attachment created by a file cannot be changed."
+msgstr ""
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/file.py:515
+#: code:addons/muk_dms/muk_dms/models/file.py:515
+#, python-format
+msgid "The directory has to have the permission to create files."
+msgstr ""
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/directory.py:388
+#: code:addons/muk_dms/muk_dms/models/directory.py:388
+#, python-format
+msgid "The directory name is invalid."
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_actions/static/src/js/fields/abstract_actions.js:41
+#: code:addons/muk_dms_actions/static/src/js/fields/abstract_actions.js:41
+#, python-format
+msgid "The field '%s' must be a many2many field with a relation to file actions for the widget to work."
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/models/file.py:503
+#: code:addons/muk_dms/muk_dms/models/file.py:503
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/drop/dialog.js:81
+#: code:addons/muk_dms_view/static/src/js/dialogs/drop/dialog.js:81
+#, python-format
+msgid "The file has a forbidden file extension."
+msgstr ""
+
+#. module: muk_dms
+#: code:addons/muk_dms/muk_dms_attachment/models/ir_attachment.py:166
+#: code:addons/muk_dms_attachment/models/ir_attachment.py:166
+#, python-format
+msgid "The file is already referenced by another attachment."
+msgstr ""
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/file.py:494
+#: code:addons/muk_dms/muk_dms/models/file.py:494
+#, python-format
+msgid "The file name is invalid."
+msgstr ""
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/file.py:509
+#: code:addons/muk_dms/muk_dms/models/file.py:509
+#, python-format
+msgid "The maximum upload size is %s MB)."
+msgstr ""
+
+#. module: muk_dms
+#: code:addons/muk_dms/models/directory.py:382
+#: code:addons/muk_dms/muk_dms/models/directory.py:382
+#, python-format
+msgid "The parent directory has to have the permission to create directories."
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:437
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:437
+#, python-format
+msgid "The records couldn't be deleted!"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:433
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:433
+#, python-format
+msgid "The records have been deleted!"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,help:muk_dms.field_muk_dms_storage__save_type
+msgid "The save type is used to determine how a file is saved by the system. If you change \n"
+"            this setting, you can migrate existing files manually by triggering the action."
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__thumbnail
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__thumbnail
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_mixins_thumbnail__thumbnail
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_kanban
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#. module: muk_dms
+#: model:ir.model,name:muk_dms.model_muk_dms_mixins_thumbnail
+msgid "Thumbnail Mixin"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/controls.xml:27
+#: code:addons/muk_dms_view/static/src/xml/controls.xml:27
+#, python-format
+msgid "Tip: An underscore _ in the pattern matches any single character. A percent sign % matches any string of zero or more characters."
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__count_total_elements
+msgid "Total Elements"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__count_total_files
+msgid "Total Files"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__count_total_directories
+msgid "Total Subdirectories"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_view
+msgid "Tree View"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__mimetype
+msgid "Type"
+msgstr "Tipo"
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_file_form
+msgid "Unlock"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/drop/files_dialog.js:37
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/action/controller.js:82
+#: code:addons/muk_dms_view/static/src/js/dialogs/drop/files_dialog.js:37
+#: code:addons/muk_dms_view/static/src/js/views/action/controller.js:82
+#, python-format
+msgid "Upload"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms/static/src/js/views/file/kanban/file_kanban_controller.js:58
+#: code:addons/muk_dms/muk_dms_view/static/src/js/views/base/controller.js:301
+#: code:addons/muk_dms/static/src/js/views/file/kanban/file_kanban_controller.js:58
+#: code:addons/muk_dms_view/static/src/js/views/base/controller.js:301
+#, python-format
+msgid "Upload Error"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_file_step
+msgid "Upload File"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms/static/src/js/views/mixins/file_upload.js:63
+#: code:addons/muk_dms/static/src/js/views/mixins/file_upload.js:63
+#, python-format
+msgid "Upload Files"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/js/dialogs/drop/files_dialog.js:36
+#: code:addons/muk_dms_view/static/src/js/dialogs/drop/files_dialog.js:36
+#, python-format
+msgid "Upload Files into: "
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.onboarding_file_step
+msgid "Upload your first File."
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms/static/src/js/views/mixins/file_upload.js:64
+#: code:addons/muk_dms/static/src/js/views/mixins/file_upload.js:64
+#, python-format
+msgid "Uploading..."
+msgstr ""
+
+#. module: muk_dms
+#: model:res.groups,name:muk_dms.group_dms_user
+msgid "User"
+msgstr ""
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_res_config_settings__module_muk_dms_version
+msgid "Versioning"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+#: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_directory_kanban
+msgid "Views"
+msgstr "Vistas"
+
+#. module: muk_dms
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_directory__permission_write
+#: model:ir.model.fields,field_description:muk_dms.field_muk_dms_file__permission_write
+msgid "Write Access"
+msgstr "Permiso de escritura"
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:62
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:62
+#, python-format
+msgid "Write:"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:161
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:161
+#, python-format
+msgid "You can change the structure by moving nodes. It is also possible \n"
+"						to create new nodes by dragging files and even entire folder\n"
+"						structures on the view."
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/dialogs.xml:156
+#: code:addons/muk_dms_view/static/src/xml/dialogs.xml:156
+#, python-format
+msgid "You can open a context menu by right-clicking on any node. This\n"
+"						contains further options for interacting with the node."
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.document_onboarding_directory_panel
+#: model_terms:ir.ui.view,arch_db:muk_dms.document_onboarding_file_panel
+msgid "action_close_documents_onboarding"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.res_config_settings_view_form
+msgid "exe,msi"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:45
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:56
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:67
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:78
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:45
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:56
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:67
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:78
+#, python-format
+msgid "no"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.document_onboarding_file_panel
+msgid "o_onboarding_blue"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.document_onboarding_directory_panel
+msgid "o_onboarding_orange"
+msgstr ""
+
+#. module: muk_dms
+#: model_terms:ir.ui.view,arch_db:muk_dms.document_onboarding_directory_panel
+#: model_terms:ir.ui.view,arch_db:muk_dms.document_onboarding_file_panel
+msgid "res.company"
+msgstr ""
+
+#. module: muk_dms
+#. openerp-web
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:42
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:53
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:64
+#: code:addons/muk_dms/muk_dms_view/static/src/xml/preview.xml:75
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:42
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:53
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:64
+#: code:addons/muk_dms_view/static/src/xml/preview.xml:75
+#, python-format
+msgid "yes"
+msgstr ""
+
