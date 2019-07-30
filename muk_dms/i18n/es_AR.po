@@ -2018,7 +2018,7 @@ msgstr "Subdirectorios"
 #. module: muk_dms
 #: model:ir.ui.menu,name:muk_dms.cat_menu_muk_dms_config_system
 msgid "System"
-msgstr "Systema"
+msgstr "Sistema"
 
 #. module: muk_dms
 #: model_terms:ir.ui.view,arch_db:muk_dms.view_dms_tag_form
